@@ -1,1 +1,1 @@
-"this is from main branch" 
+The Conflict has been resolved!
