@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is from my-first-branch" 
+=======
+"this is from main branch" 
+>>>>>>> main
