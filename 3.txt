@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This is from my-first-branch" 
 =======
 "this is from main branch" 
 >>>>>>> main
+=======
+The Conflict has been resolved!
+>>>>>>> b357a20aeea6dbd6a48f8623f25b39edcc6d6628
